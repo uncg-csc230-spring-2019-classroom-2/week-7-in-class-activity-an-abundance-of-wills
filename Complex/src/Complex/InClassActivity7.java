@@ -29,5 +29,6 @@ public class InClassActivity7 {
         Complex[] list = {c1, c2, c3, c4};
         java.util.Arrays.sort(list);
         System.out.println(java.util.Arrays.toString(list));
+        System.out.println("new print");
     }
 }
